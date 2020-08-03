@@ -9,5 +9,3 @@ from CustomFunctions import (
 custom_function1()
 custom_function2()
 custom_function3()
-
-
